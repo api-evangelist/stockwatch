@@ -1,0 +1,54 @@
+{
+    "name": "Stockwatch",
+    "description": "Real-time stock market news and quotes, plus analytical tools, foreign exchange and specialty information. Professional-grade #MarketData services, since 1995.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28312-www-stockwatch-com.jpg",
+    "tags": [
+        "financial",
+        "financial services",
+        "have api",
+        "stocks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stockwatch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stockwatch",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28312-www-stockwatch-com.jpg",
+            "humanURL": "https:\/\/www.stockwatch.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stockwatch-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stockwatch-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "news@stockwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@stockwatch.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Stockwatch"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.stockwatch.com"
+        }
+    ]
+}
